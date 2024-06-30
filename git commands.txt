@@ -1,0 +1,6 @@
+[git -v] => ver la versión de git instalada
+[git -h] => ver lista de comandos de git
+[git -C] => "C" mayúscula; sirve para ejecutar comando en directorios diferentes al actual sin la necesidad de movernos hacia el
+[git -c] => "c" minúscula; sirve para cambiar la configuración de git temporalmente para ejecutar comandos
+[git --exec-path] => muestra la ubicación de lo ejecutables de git
+[git --html-path] => muestra la ubicación de los archivos informativos HTML sobre git
